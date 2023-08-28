@@ -44,7 +44,7 @@ function App() {
                 })
             }
         } catch (error) {
-            toast.error("something went wrong!")
+            toast.error("Allow to see text and images on your clipboard!")
         }
     }
 
